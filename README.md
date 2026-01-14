@@ -1,2 +1,5 @@
-# simple-interest-calculator-python
-simple interest calculator in python
+p=float(input("Enter principal:))
+r=float(input("Enter rate of interest:"))
+t=float(input("Enter time in years:"))
+si=(p*r*t/100
+print("simple interest=",si)
